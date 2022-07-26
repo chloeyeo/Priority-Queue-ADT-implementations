@@ -14,7 +14,8 @@ For this assessed exercise, I have covered to parts which are:
 
 I have done this by including:
     
-    1. The zip archieve (named "AE2 - ADSE2 Chae-Ryeong(Chloe) Yeo") containing the Java sources of my implementations
-    (which are MinPriorityQueueBST.java, MinPriorityQueueHeap.java, and TestQueue.java; and
+    1. The zip archieve (named "AE2 - ADSE2 Chae-Ryeong(Chloe) Yeo")
+       containing the Java sources of my implementations (which are
+       MinPriorityQueueBST.java, MinPriorityQueueHeap.java, and TestQueue.java; and
     
     2. A short (3 pages) report describing what I have done in each part of the exercise.
